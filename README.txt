@@ -1,11 +1,11 @@
  Author
-Name: [Your Name]
+Name: G.Raj
 
 Location: Chennai, India
 
 Age: 17
 
-GitHub: [your GitHub link]
+GitHub: https://github.com/gsraj0301
 
 
 # Inventory Management System - Internship Project
