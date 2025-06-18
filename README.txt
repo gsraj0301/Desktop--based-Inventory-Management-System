@@ -33,6 +33,7 @@ This project is a desktop-based inventory management system developed using **Py
 
 ## 🛠️ Executable download
 If you want to try the software directly without setting it up.
-[Click here to download the .exe file] https://drive.google.com/file/d/1-PsoEwrQuSPusu3P9SwG2qYuQPGEm0M6/view?usp=sharing
+[Click here to download the .exe file] https://drive.google.com/file/d/1X3rxCd2WKtzyBBFzWjiONMEYtt1Rsyiz/view?usp=drive_link
+[Click here to download the expalantion video] https://drive.google.com/file/d/1Ae7cWoL9OJpyxHIZcFoGbPbSFqTPeERh/view?usp=drive_link
 
 
